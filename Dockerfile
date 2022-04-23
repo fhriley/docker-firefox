@@ -19,6 +19,4 @@ COPY entrypoint.sh /entrypoint.d/
 
 VOLUME /config
 
-ENV VNC_UID=1000
-ENV VNC_GID=1000
 ENV VNC_WINDOW_NAME=Firefox

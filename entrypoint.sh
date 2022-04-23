@@ -2,4 +2,3 @@
 
 mkdir -p /config/profile
 chown app:app /config /config/profile
-
