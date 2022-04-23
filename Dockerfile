@@ -15,6 +15,9 @@ RUN add-apt-repository -y ppa:mozillateam/ppa \
 
 COPY supervisord.conf /supervisor.d/
 COPY icewm /etc/X11/icewm
+COPY entrypoint.sh /entrypoint.d/
+
+VOLUME /config
 
 ENV VNC_UID=1000
 ENV VNC_GID=1000
