@@ -1,0 +1,8 @@
+firefox.layer: onTop
+firefox.startMaximized: 1
+firefox.fClose: 0
+firefox.fHide: 0
+firefox.fMinimize: 0
+firefox.fMove: 0
+firefox.fRollup: 0
+firefox.appTakesFocus: 1
