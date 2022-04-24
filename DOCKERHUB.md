@@ -11,7 +11,7 @@ For simple use cases, this container is a drop-in replacement for [jlesage/firef
 
 ---
 
-[![Firefox logo](https://images.weserv.nl/?url=raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/firefox-icon.png&w=200)](https://www.mozilla.org/en-US/firefox/)[![Firefox](https://dummyimage.com/400x110/ffffff/575757&text=Firefox)](https://www.mozilla.org/en-US/firefox/)
+[![Firefox logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Firefox_logo_and_wordmark_%28horizontal%29%2C_2019.svg/512px-Firefox_logo_and_wordmark_%28horizontal%29%2C_2019.svg.png)](https://www.mozilla.org/en-US/firefox/)
 
 Mozilla Firefox is a free and open-source web browser developed by Mozilla Foundation and its subsidiary, Mozilla Corporation.
 
