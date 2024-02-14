@@ -5,7 +5,7 @@ import shlex
 
 IMAGE_NAME = 'fhriley/firefox'
 BASE_IMAGE = 'fhriley/vnc-base:latest'
-PLATFORMS = ['linux/amd64', 'linux/arm64', 'linux/arm/v7']
+PLATFORMS = ['linux/amd64', 'linux/arm64']
 CACHE = f'type=registry,ref={IMAGE_NAME}:'
 BUILDX = 'docker buildx build {build_args} --platform {platforms} {tags} --cache-from {cache} --cache-to type=inline,mode=max {push} {load} {no_cache} .'
 
