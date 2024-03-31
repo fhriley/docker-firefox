@@ -6,8 +6,8 @@ The GUI of the application is accessed through a modern web browser (no installa
 
 For simple use cases, this container is a drop-in replacement for [jlesage/firefox](https://hub.docker.com/r/jlesage/firefox). It improves on that image in the following ways:
 
-1. Support for `amd64`, `armv7`, and `arm64`.
-2. The Firefox window will resize to the browser or VNC client.
+1. Support for `amd64` and `arm64`.
+3. The Firefox window will resize to the browser or VNC client.
 
 ---
 
